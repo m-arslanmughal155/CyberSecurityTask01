@@ -1,1 +1,0 @@
-This script securely hashes passwords using SHA-256. It adds a random 16-byte salt for uniqueness, preventing attacks like rainbow tables and ensuring identical passwords produce different hashes. Salting strengthens password security by adding randomness.
